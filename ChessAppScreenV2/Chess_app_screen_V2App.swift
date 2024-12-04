@@ -11,7 +11,7 @@ import SwiftUI
 struct Chess_app_screen_V2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SecondScreen()
         }
     }
 }
